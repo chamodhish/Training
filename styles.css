@@ -1,5 +1,5 @@
 h1 {color:aqua;}
-p, h2 {color:white;}
+p, h2, ul, li {color:white;}
 body {
   background-image: url("https://images.pexels.com/photos/33229965/pexels-photo-33229965.jpeg");
   background-size: cover;
