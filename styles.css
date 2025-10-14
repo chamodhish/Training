@@ -1,6 +1,6 @@
 
-h1.titre{color: violet;}
-h1.autretitre{color: green;}
+.titre{color: violet;}
+.autretitre{color: green;}
 
 p, h2, ul, li {color: blue;}
 body {
