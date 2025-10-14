@@ -1,6 +1,9 @@
 div#monBloc h1{color:brown;}
 div#monAutreBloc h1{color:blueviolet;}
 
+.test{
+  text-align:center;
+}
 p, h2, ul, li {
   color: white;
   text-align: center;
