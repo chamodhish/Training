@@ -1,13 +1,13 @@
 div#monBloc h1{color:brown;}
 div#monAutreBloc h1{color:blueviolet;}
 
-p, h2, ul, li {color: white;}
+p, h2, ul, li {
+  color: white;
+  text-align: center;
+}
 body {
   background-image: url("https://images.pexels.com/photos/33229965/pexels-photo-33229965.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat; 
-}
-h2, p, h1, ul, li {
-  text-align: center;
 }
