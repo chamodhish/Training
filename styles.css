@@ -1,3 +1,8 @@
+.main {
+    h2 {color:red;}
+    p {color: violet;}
+}
+
 h1 {color:aqua;}
 p, h2, ul, li {color:white;}
 body {
