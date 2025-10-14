@@ -1,8 +1,8 @@
 
-h1.blacc{color: black;}
-h1.blas{color: green;}
+h1.titre{color: violet;}
+h1.autretitre{color: green;}
 
-p, h2, ul, li {color:white;}
+p, h2, ul, li {color: blue;}
 body {
   background-image: url("https://images.pexels.com/photos/33229965/pexels-photo-33229965.jpeg");
   background-size: cover;
