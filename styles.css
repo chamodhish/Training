@@ -1,6 +1,5 @@
-
-.titre{color: violet;}
-.autretitre{color: green;}
+div#monBloc h1{color:brown;}
+div#monAutreBloc h1{color:blueviolet;}
 
 p, h2, ul, li {color: blue;}
 body {
