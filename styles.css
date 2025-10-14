@@ -1,9 +1,7 @@
-.main {
-    h2 {color:red;}
-    p {color: violet;}
-}
 
-h1 {color:aqua;}
+h1.blacc{color: black;}
+h1.blas{color: green;}
+
 p, h2, ul, li {color:white;}
 body {
   background-image: url("https://images.pexels.com/photos/33229965/pexels-photo-33229965.jpeg");
