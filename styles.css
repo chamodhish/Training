@@ -8,6 +8,6 @@ body {
   background-position: center;
   background-repeat: no-repeat; 
 }
-h2 {
+h2, p, h1, ul, li {
   text-align: center;
 }
