@@ -1,14 +1,6 @@
 div#monBloc h1{color:brown;}
 div#monAutreBloc h1{color:blueviolet;}
 
-.test {
-  width: 80%;
-  max-width: 500px;
-  margin: auto;
-  padding: 20px;
-  background-color: burlywood;
-  text-align: center;
-}
 p, h2, ul, li {
   color: white;
   text-align: center;
